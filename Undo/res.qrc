@@ -1,0 +1,18 @@
+<RCC>
+    <qresource prefix="/sounds">
+        <file>Ball.wav</file>
+        <file>loss.wav</file>
+        <file>choquebloque.mp3</file>
+        <file>choquebarra.wav</file>
+    </qresource>
+    <qresource prefix="/images">
+        <file>bloque.png</file>
+        <file>bola.png</file>
+        <file>fondo.png</file>
+        <file>barra.png</file>
+        <file>tierra.png</file>
+        <file>gameover.png</file>
+        <file>gameover.jpg</file>
+        <file>win.jpg</file>
+    </qresource>
+</RCC>
